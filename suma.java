@@ -1,3 +1,4 @@
+/*comentari*/
 int numero1 = 0;
 int numero2 = 0;
 
